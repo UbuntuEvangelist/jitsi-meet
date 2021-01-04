@@ -27,7 +27,7 @@
     "jquery-contextmenu": "*",
     "jquery-ui": "^1.10.5",
     "jssha": "1.5.0",
-    "retry": "0.6.1",
+    "retry": "0.12.0",
     "strophe": "^1.2.2",
     "strophejs-plugins": "^0.0.6",
     "toastr": "^2.0.3",
