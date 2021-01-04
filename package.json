@@ -20,7 +20,7 @@
     "autosize": "^1.18.13",
     "bootstrap": "3.1.1",
     "events": "*",
-    "i18next-client": "1.7.7",
+    "i18next-client": "1.11.5",
     "jquery": "~2.1.1",
     "jQuery-Impromptu": "git+https://github.com/trentrichardson/jQuery-Impromptu.git#v6.0.0",
     "lib-jitsi-meet": "jitsi/lib-jitsi-meet",
