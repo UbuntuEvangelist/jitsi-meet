@@ -26,7 +26,7 @@
     "lib-jitsi-meet": "jitsi/lib-jitsi-meet",
     "jquery-contextmenu": "*",
     "jquery-ui": "^1.10.5",
-    "jssha": "1.5.0",
+    "jssha": "1.6.3",
     "retry": "0.6.1",
     "strophe": "^1.2.2",
     "strophejs-plugins": "^0.0.6",
